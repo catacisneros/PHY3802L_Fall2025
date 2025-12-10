@@ -1,0 +1,28 @@
+============================================================
+YOUNG'S DOUBLE SLIT EXPERIMENT - ANALYSIS RESULTS
+============================================================
+
+EXPERIMENTAL PARAMETERS:
+Wavelength λ = 670.0 nm
+Distance L = 500.0 mm
+Zero offset = 8.5 mV
+
+LEFT SLIT FIT RESULTS:
+Slit width D = 72.9 ± 0.2 μm
+Reduced χ² = 17.10
+
+RIGHT SLIT FIT RESULTS:
+Slit width D = 67.1 ± 0.2 μm
+Reduced χ² = 2.33
+
+DOUBLE SLIT FIT RESULTS:
+Slit width D = 67.1 ± 0.2 μm
+Slit separation S = 0.408 ± 0.000 mm
+Slit separation S = 16.1 ± 0.0 mils
+Reduced χ² = 8.91
+
+DERIVED QUANTITIES:
+Fringe spacing (angular) = 1.64 mrad
+Fringe spacing (linear) = 0.820 mm
+Central maximum width = 19.96 mrad
+Number of fringes in central maximum = 12.2
